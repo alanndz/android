@@ -154,6 +154,6 @@
   <project path="lineage/scripts" name="LineageOS/scripts" groups="tools" revision="master" />
 
   <!-- Device tree and Vendor tree -->
-  <project path="device/xiaomi/lavender" name="alanndz/device_xiaomi_lavender" revision="los" />
+  <project path="device/xiaomi/lavender" name="alanndz/device_xiaomi_lavender" revision="lineage-17.1" />
   <project path="vendor/xiaomi/lavender" name="alanndz/vendor_xiaomi_lavender" revision="lineage-17.1" />
 </manifest>
